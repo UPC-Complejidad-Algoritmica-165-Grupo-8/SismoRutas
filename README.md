@@ -1,6 +1,6 @@
 # SismoRutas
 
-1. Instala las Dependencias del Proyecto
+## 1. Instala las Dependencias del Proyecto
 Con el entorno virtual activo en la terminal de VS Code, instala las librerías necesarias:
 
 Bash
@@ -20,7 +20,7 @@ pandas: Para el manejo y análisis de datos en formato de tablas (DataFrames).
 
 openpyxl: Para leer y escribir archivos Excel (usado para cargar los datos de entrada).
 
-2. Ejecuta la Aplicación
+## 2. Ejecuta la Aplicación
 Ahora que todas las dependencias están instaladas y el entorno está configurado, puedes ejecutar la aplicación.
 
 Desde la terminal de VS Code (con el entorno virtual activo):
